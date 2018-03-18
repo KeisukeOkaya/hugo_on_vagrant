@@ -1,0 +1,2 @@
+# hugo_on_vagrant
+vagrant上にhugoをインストール
